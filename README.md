@@ -17,3 +17,5 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 3 - Practice Quiz 3 - CSS](Course%201/W3%20-%20CSS/Practice%20Quiz.md)
   - [Week 3 - CSS Snapshots](Course%201/W3%20-%20CSS/images)
   - [Week 4 - PHP Installation Snapshots](Course%201/W4%20-%20Installing%20PHP%20and%20SQL/images)
+  - [Week 5 - PHP Pages Snapshots](Course%201/W5%20-%20Introduction%20to%20PHP/images)
+  
