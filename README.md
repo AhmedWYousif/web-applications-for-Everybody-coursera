@@ -14,5 +14,6 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 1 - Practice Quiz 1 - Request-Response](Course%201/W1%20-%20Introduction%20to%20DynamicW%20eb%20Content/Practice%20Quiz.md)
   - [Week 2 - Practice Quiz 2 - HTML](Course%201/W2%20-%20HTML/Practice%20Quiz.md)
   - [Week 2 - Assignment - HTML](Course%201/W2%20-%20HTML/Assignment.html)
-
-
+  - [Week 3 - Practice Quiz 3 - CSS](Course%201/W3%20-%20CSS/Practice%20Quiz.md)
+  - [Week 3 - CSS Snapshots](Course%201/W3%20-%20CSS/images)
+  - [Week 4 - PHP Installation Snapshots](Course%201/W4%20-%20Installing%20PHP%20and%20SQL/images)
