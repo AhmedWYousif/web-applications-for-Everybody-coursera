@@ -20,7 +20,9 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 5 - PHP Pages Snapshots](Course%201/W5%20-%20Introduction%20to%20PHP/images)
   - [Week 6 - Practice Quiz 4 - HTML](Course%201/W6%20-%20PHP%20Arrays/Practice%20Quiz.md)
   - [Week 7 - Practice Quiz 5 - HTML](Course%201/W7%20-%20PHP%20Functions/Practice%20Quiz.md)
-  - [Week 7 - Reversing MD5 hash](Course%201/W7%20-%20PHP%20Functions/Reversing%20MD5%20hash)  
+  - [Week 7 - Reversing MD5 hash](Course%201/W7%20-%20PHP%20Functions/Reversing%20MD5%20hash) 
+  - [Week 8 - Practice Quiz 6 - HTML Forms](Course%201/W8%20-%20PHP%20and%20HTML%20Forms/Practice%20Quiz.md)
+  - [Week 8 -  Rock Paper Scissors Game](Course%201/W8%20-%20PHP%20and%20HTML%20Forms/rps%20game)
 
 
 - [Course 2: Building Web Applications in PHP](Course%202)
