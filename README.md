@@ -32,4 +32,5 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 3 - Music Database](Course%202/W3%20-%20Database%20Design/music.sql)
   - [Week 4 - roster Database](Course%202/W4%20-%20Many-To-Many/roster.sql)
 
-
+- [Course 3: Building Database Applications in PHP](Course%203)
+  - [Week 1 - Practice Quiz 1 - PHP Objects](Course%203/W1%20-%20PHP%20Objects/Practice%20Quiz.md)
