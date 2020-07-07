@@ -25,7 +25,7 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 8 -  Rock Paper Scissors Game](Course%201/W8%20-%20PHP%20and%20HTML%20Forms/rps%20game)
 
 
-- [Course 2: Building Web Applications in PHP](Course%202)
+- [Course 2: Introduction to Structured Query Language (SQL)](Course%202)
   - [Week 1 - PHP and SQL Installation Snapshots](Course%202/W1%20-%20Installing%20PHP%20and%20SQL/images)
   - [Week 2 - Practice Quiz 1 - SQL](Course%202/W2%20-%20SQL/Practice%20Quiz.md)
   - [Week 3 - Practice Quiz 2 - Database Models](Course%202/W3%20-%20Database%20Design/Practice%20Quiz.md)
