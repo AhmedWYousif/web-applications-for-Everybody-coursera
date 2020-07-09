@@ -34,3 +34,5 @@ This repo contains all my work for this specialization. All the code and quizzes
 
 - [Course 3: Building Database Applications in PHP](Course%203)
   - [Week 1 - Practice Quiz 1 - PHP Objects](Course%203/W1%20-%20PHP%20Objects/Practice%20Quiz.md)
+  - [Week 2 - Practice Quiz 2 - PDO](Course%203/W2%20-%20Connecting%20PHP%20and%20MySQL/Practice%20Quiz.md)
+  - [Week 2 - Automobiles tracker application](Course%203/W2%20-%20Connecting%20PHP%20and%20MySQL/auto_tracker)
