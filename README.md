@@ -36,6 +36,7 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 1 - Practice Quiz 1 - PHP Objects](Course%203/W1%20-%20PHP%20Objects/Practice%20Quiz.md)
   - [Week 2 - Practice Quiz 2 - PDO](Course%203/W2%20-%20Connecting%20PHP%20and%20MySQL/Practice%20Quiz.md)
   - [Week 2 - Automobiles tracker application](Course%203/W2%20-%20Connecting%20PHP%20and%20MySQL/auto_tracker)
-  - [Week 3 -  Practice Quiz3 - Sessions](Course%203/W3%20-%20PHP%20Cookies%20and%20Sessions/Practice%20Quiz.md)
- 
+  - [Week 3 - Practice Quiz 3 - Sessions](Course%203/W3%20-%20PHP%20Cookies%20and%20Sessions/Practice%20Quiz.md)
+  - [Week 4 - Practice Quiz 4 - Routing](Course%203/W4%20-%20PHP%20Redirect,%20Routing,%20and%20Authentication/Practice%20Quiz.md)
+  - [Week 4 - Automobiles tracker application](Course%203/W4%20-%20PHP%20Redirect,%20Routing,%20and%20Authentication/auto_tracker)
 
