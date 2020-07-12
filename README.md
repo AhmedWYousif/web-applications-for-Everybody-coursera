@@ -39,4 +39,6 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 3 - Practice Quiz 3 - Sessions](Course%203/W3%20-%20PHP%20Cookies%20and%20Sessions/Practice%20Quiz.md)
   - [Week 4 - Practice Quiz 4 - Routing](Course%203/W4%20-%20PHP%20Redirect,%20Routing,%20and%20Authentication/Practice%20Quiz.md)
   - [Week 4 - Automobiles tracker application](Course%203/W4%20-%20PHP%20Redirect,%20Routing,%20and%20Authentication/auto_tracker)
+  - [Week 5 - Automobiles tracker CRUD application](Course%203/w5%20-%20Building%20a%20CRUD%20Application/auto%20tracker%20crud)
 
+  
