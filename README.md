@@ -43,4 +43,5 @@ This repo contains all my work for this specialization. All the code and quizzes
 
 - [Course 4: JavaScript, jQuery, and JSON](Course%204)
   - [Week 1 - Practice Quiz 1 - JavaScript](Course%204/W1%20-%20Introduction%20to%20JavaScript/Practice%20Quiz.md)
-  - [Week 1 - Resume Registry Application](Course%204/W1%20-%20Introduction%20to%20JavaScript/profile)
+  - [Week 1 - Resume Registry Application](Course%204/W1%20-%20Introduction%20to%20JavaScript/profile) 
+  - [Week 2 - Practice Quiz 2 - JavaScript Objects](Course%204/W2%20-%20JavaScript%20Objects/Practice%20Quiz.md)
