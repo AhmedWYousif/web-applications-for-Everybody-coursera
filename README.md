@@ -41,4 +41,6 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 4 - Automobiles tracker application](Course%203/W4%20-%20PHP%20Redirect,%20Routing,%20and%20Authentication/auto_tracker)
   - [Week 5 - Automobiles tracker CRUD application](Course%203/w5%20-%20Building%20a%20CRUD%20Application/auto%20tracker%20crud)
 
-  
+- [Course 4: JavaScript, jQuery, and JSON](Course%204)
+  - [Week 1 - Practice Quiz 1 - JavaScript](Course%204/W1%20-%20Introduction%20to%20JavaScript/Practice%20Quiz.md)
+  - [Week 1 - Resume Registry Application](Course%204/W1%20-%20Introduction%20to%20JavaScript/profile)
