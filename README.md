@@ -47,3 +47,4 @@ This repo contains all my work for this specialization. All the code and quizzes
   - [Week 2 - Practice Quiz 2 - JavaScript Objects](Course%204/W2%20-%20JavaScript%20Objects/Practice%20Quiz.md)
   - [Week 3 - Practice Quiz 3 - JQuery](Course%204/W3%20-%20Using%20JQuery/Practice%20Quiz.md)
   - [Week 3 - Resume Registry Application with positions](Course%204/W3%20-%20Using%20JQuery/profile)
+  - [Week 4 - Resume Registry Application with positions and Education](Course%204/w4%20-%20JSON/profile)
